@@ -4,7 +4,7 @@ Amusement park project with frontend built by React, backend built with SpringBo
 ### Project Work Distribution
 Mainly in charge of the frontend part and partially in charge of the database part 
 
-### To start the project
+### To Start the Program
 1. Open MySQL Server
 2. Run the SpringBoot Program 
 3. Run the React Program with ```npm start```
