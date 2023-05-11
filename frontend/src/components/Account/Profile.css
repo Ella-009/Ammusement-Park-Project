@@ -1,0 +1,31 @@
+.box{
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    padding-left: 10%;
+    padding-bottom: 2%;
+    box-shadow: 0 4px 4px rgba(0,0,0,.12), 0 0 10px rgba(0,0,0,.06);
+    border-radius: 10px;
+    margin-top: 1%;
+}
+
+.layout{
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    margin-top: 2%;
+}
+
+.infoBox{
+    margin-top: 1%; 
+    padding: 1%;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start; 
+}
+
+.info{
+    font-size: 120%; 
+    color: #2A3C59; 
+}
