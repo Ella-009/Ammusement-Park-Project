@@ -10,4 +10,4 @@ Mainly in charge of the frontend part and partially in charge of the database pa
 3. Run the React Program with ```npm start```
 
 ### Tips 
-There are some libraries used for ui design in this project, which is actually not included in the directory, install as required. 
+There are some libraries used for UI design in this project, which is actually not included in the directory, install as required. 
